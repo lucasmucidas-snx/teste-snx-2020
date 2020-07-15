@@ -5,9 +5,11 @@
 Smart NX: Teste para desenvolvedor(a)
 ======================
 
-<a href="">
-    <img src="https://www.smartnx.com/site20/wp-content/uploads/2020/07/timesmartnx.png" alt="Smart NX" title="Smart NX" align="center" height="100" />
-</a>
+<p align="center">
+  <a href="http://www.smartnx.com">
+      <img src="https://www.smartnx.com/site20/wp-content/uploads/2020/07/timesmartnx.png" alt="SmartNX" width="500px"/>
+  </a>
+</p>
 
 :star: Temos uma cadeira para o nosso time :D
 
