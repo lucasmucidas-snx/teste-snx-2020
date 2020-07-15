@@ -11,17 +11,10 @@ Smart NX: Teste para desenvolvedor(a)
   </a>
 </p>
 
-:star: Temos uma cadeira para o nosso time :D
-
-Aqui você será responsável por criar novas features, corrigir bugs e ampliar o valor de nossas soluções. 
-
-* 🚀 Ensino superior completo em áreas de tecnologia, engenharia ou experiência equivalente;
-* 🚀 Experiência em desenvolvimento backend;
-* 🚀 Conhecimentos básicos em Java;
-* 🚀 Conhecimento intermediário em Linux;
-
 ## Índice
 
+- [Sobre](#sobre)
+    - [Requisitos](#requisitos)
 - [Objetivos](#objetivos)
     - [O que está sendo avaliado](#o-que-está-sendo-avaliado)
     - [o que NÃO está sendo avaliado](#o-que-não-está-sendo-avaliado)
@@ -30,6 +23,17 @@ Aqui você será responsável por criar novas features, corrigir bugs e ampliar 
     - [Como começar](#como-comecar)
     - [Resultado](#resultado)
 - [Outras informações](#outras-informações)
+
+## Sobre
+
+-Desc empresa
+
+### Requisitos
+
+* 🚀 Ensino superior completo em áreas de tecnologia, engenharia ou experiência equivalente;
+* 🚀 Experiência em desenvolvimento backend;
+* 🚀 Conhecimentos básicos em Java;
+* 🚀 Conhecimento intermediário em Linux;
 
 ## Objetivos
 
