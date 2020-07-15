@@ -1,3 +1,7 @@
+<a href="https://smartnx.com/">
+    <img src="https://i.imgur.com/lJbJFCs.png" alt="Smart NX logo" title="Smart NX" align="right" height="60" />
+</a>
+
 Smart NX: Teste para desenvolvedor(a)
 ======================
 
@@ -13,13 +17,13 @@ Aqui você será responsável por criar novas features, corrigir bugs e ampliar 
 ## Índice
 
 - [Objetivos](#objetivos)
-    - [O que está sendo avaliado](#avaliado)
-    - [o que NÃO está sendo avaliado](#naoavaliado)
-- [O projeto](#projeto)
+    - [O que está sendo avaliado](#o-que-está-sendo-avaliado)
+    - [o que NÃO está sendo avaliado](#o-que-não-está-sendo-avaliado)
+- [O projeto](#o-projeto)
     - [Escopo](#escopo)
-    - [Como começar](#comecar)
+    - [Como começar](#como-comecar)
     - [Resultado](#resultado)
-- [Outras informações](#info)
+- [Outras informações](#outras-informações)
 
 ## Objetivos
 
