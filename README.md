@@ -1,5 +1,5 @@
 <a href="https://smartnx.com/">
-    <img src="https://i.imgur.com/lJbJFCs.png" alt="Smart NX logo" title="Smart NX" align="right" height="60" />
+    <img src="https://i.imgur.com/lJbJFCs.png" alt="Smart NX logo" title="Smart NX" align="right" height="100" />
 </a>
 
 Smart NX: Teste para desenvolvedor(a)
