@@ -5,6 +5,9 @@
 Smart NX: Teste para desenvolvedor(a)
 ======================
 
+    <img src="https://www.smartnx.com/site20/wp-content/uploads/2020/07/timesmartnx.png" alt="Smart NX" title="Smart NX" align="center" height="100" />
+
+
 :star: Temos uma cadeira para o nosso time :D
 
 Aqui você será responsável por criar novas features, corrigir bugs e ampliar o valor de nossas soluções. 
