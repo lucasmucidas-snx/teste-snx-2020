@@ -17,10 +17,7 @@ Smart NX: Teste para desenvolvedor(a)
     - [Requisitos](#requisitos)
 - [Objetivos](#objetivos)
     - [O que está sendo avaliado](#o-que-está-sendo-avaliado)
-    - [o que NÃO está sendo avaliado](#o-que-não-está-sendo-avaliado)
 - [O projeto](#o-projeto)
-    - [Escopo](#escopo)
-    - [Como começar](#como-comecar)
     - [Resultado](#resultado)
 - [Outras informações](#outras-informações)
 
@@ -36,30 +33,26 @@ Nossa empresa possui 6 anos de mercado e atende a mais de 200 marcas, entre elas
 
 ## Objetivos
 
-O objetivo desse teste consiste em [...]
+O objetivo desse teste é entender suas escolhas, dedicação e
 
 ### O que está sendo avaliado
 
-* Suas habilidades com HTML
-* Suas habilidades com CSS
-* Suas habilidades com Javascript
-* Suas habilidades com alguma linguagem de Backend (Preferência PHP/Python)
 * Criatividade
 * Estrutura do código
-
-### O que não está sendo avaliado
-
-- A plataforma de deploy 
-- Testes automatizados
+* Escolhas de tecnologia e seu domínio sobre elas
 
 ## O projeto
 
-Descrição
+O projeto consiste em faze um CRUD (Criação/Consulta/Atualização/Deleção) usando um banco de dados MySQL.
 
-### Escopo
+Você poderá utilizar qualquer linguagem de programação para desenvolver um cadastro completo de carros (marca, modelo, ano, por exemplo).
 
-### Como começar
+Faça um **fork** deste projeto, subindo seu código ou o crie em um repositório próprio no github, nos enviando o link por e-mail (**lucas.almeida@smartnx.io**).
 
-### Resultado
+### Próxima etapa
+
+Nós entraremos em contato com você e analisaremos o código em conjunto por video-chamada, para entendermos o seu processo criativo e de desenvolvimento.
 
 ## Outras informações
+
+Quaisquer dúvidas que surgirem, você pode entrar em contato pelo e-mail: **lucas.almeida@smartnx.io**
