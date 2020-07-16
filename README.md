@@ -44,7 +44,7 @@ O objetivo desse teste é entender suas escolhas, dedicação e linha de pensame
 
 ## O projeto
 
-O projeto consiste em fazer um CRUD (Criação/Consulta/Atualização/Deleção) usando um banco de dados relacional.
+O projeto consiste em fazer um CRUD (Criação/Consulta/Atualização/Deleção) usando um banco de dados MySQL.
 
 Você poderá utilizar qualquer linguagem de programação para desenvolver um cadastro completo de carros (marca, modelo, ano, por exemplo).
 
