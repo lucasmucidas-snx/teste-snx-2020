@@ -18,7 +18,7 @@ Smart NX: Teste para desenvolvedor(a)
 - [Objetivos](#objetivos)
     - [O que está sendo avaliado](#o-que-está-sendo-avaliado)
 - [O projeto](#o-projeto)
-    - [Resultado](#resultado)
+    - [Próxima etapa](#próxima-etapa)
 - [Outras informações](#outras-informações)
 
 ## Sobre
