@@ -23,7 +23,7 @@ Smart NX: Teste para desenvolvedor(a)
 
 ## Sobre
 
-Nossa empresa possui 6 anos de mercado e atende a mais de 200 marcas, entre elas 52 dos maiores varejistas do Brasil, sendo eleita como a principal solução para relacionamento entre os varejistas. A Smart NX também atende 2 das maiores companhias do mundo e, diariamente, mais de 20.000 usuários no Brasil utilizam suas soluções, que impactam, em média, 15 milhões de consumidores por mês. Oferece tecnologias que proporcionam uma combinação perfeita entre humanos e robôs, repassando ao consumidor um atendimento totalmente diferenciado, assertivo e, principalmente, eficaz. Sendo assim, referência no mercado de relacionamento e gestão de clientes omnichannel.
+Nossa empresa possui 7 anos de mercado e atende a mais de 200 marcas, entre elas 52 dos maiores varejistas do Brasil, sendo eleita como a principal solução para relacionamento entre os varejistas. A Smart NX também atende 2 das maiores companhias do mundo e, diariamente, mais de 20.000 usuários no Brasil utilizam suas soluções, que impactam, em média, 15 milhões de consumidores por mês. Oferece tecnologias que proporcionam uma combinação perfeita entre humanos e robôs, repassando ao consumidor um atendimento totalmente diferenciado, assertivo e, principalmente, eficaz. Sendo assim, referência no mercado de relacionamento e gestão de clientes omnichannel.
 
 ### Requisitos
 
@@ -40,6 +40,7 @@ O objetivo desse teste é entender suas escolhas, dedicação e linha de pensame
 * Criatividade
 * Estrutura do código
 * Escolhas de tecnologia e seu domínio sobre elas
+* O que será construído em volta da ideia inicial do projeto
 
 ## O projeto
 
