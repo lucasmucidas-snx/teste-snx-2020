@@ -49,6 +49,8 @@ Você poderá utilizar qualquer linguagem de programação para desenvolver um c
 
 Faça um **fork** deste projeto, subindo seu código ou o crie em um repositório próprio no github, nos enviando o link por e-mail (**lucas.almeida@smartnx.io**).
 
+Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às XX:XX horas do dia **XX/XX/XX**.
+
 ### Próxima etapa
 
 Nós entraremos em contato com você e analisaremos o código em conjunto por video-chamada, para entendermos o seu processo criativo e de desenvolvimento.
