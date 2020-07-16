@@ -51,6 +51,8 @@ Faça um **fork** deste projeto, subindo seu código ou o crie em um repositóri
 
 Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às XX:XX horas do dia **XX/XX/XX**.
 
+:star: Tudo que você construir neste seu projeto será avaliado.
+
 ### Próxima etapa
 
 Nós entraremos em contato com você e analisaremos o código em conjunto por video-chamada, para entendermos o seu processo criativo e de desenvolvimento.
