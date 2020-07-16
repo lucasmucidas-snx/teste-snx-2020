@@ -33,7 +33,7 @@ Nossa empresa possui 6 anos de mercado e atende a mais de 200 marcas, entre elas
 
 ## Objetivos
 
-O objetivo desse teste é entender suas escolhas, dedicação e
+O objetivo desse teste é entender suas escolhas, dedicação e linha de pensamento em volta do processo de desenvolvimento.
 
 ### O que está sendo avaliado
 
