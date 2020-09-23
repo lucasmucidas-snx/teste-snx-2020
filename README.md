@@ -25,12 +25,6 @@ Smart NX: Teste para desenvolvedor(a)
 
 Nossa empresa possui 7 anos de mercado e atende a mais de 200 marcas, entre elas 52 dos maiores varejistas do Brasil, sendo eleita como a principal solução para relacionamento entre os varejistas. A Smart NX também atende 2 das maiores companhias do mundo e, diariamente, mais de 20.000 usuários no Brasil utilizam suas soluções, que impactam, em média, 15 milhões de consumidores por mês. Oferece tecnologias que proporcionam uma combinação perfeita entre humanos e robôs, repassando ao consumidor um atendimento totalmente diferenciado, assertivo e, principalmente, eficaz. Sendo assim, referência no mercado de relacionamento e gestão de clientes omnichannel.
 
-### Requisitos
-
-* 🚀 Ensino superior completo em áreas de tecnologia, engenharia ou experiência equivalente;
-* 🚀 Experiência em desenvolvimento backend;
-* 🚀 Conhecimento intermediário em Linux;
-
 ## Objetivos
 
 O objetivo desse teste é entender suas escolhas, dedicação e linha de pensamento em volta do processo de desenvolvimento.
@@ -48,9 +42,9 @@ O projeto consiste em fazer um CRUD (Criação/Consulta/Atualização/Deleção)
 
 Você poderá utilizar qualquer linguagem de programação para desenvolver um cadastro completo de carros (marca, modelo, ano, por exemplo).
 
-Faça um **fork** deste projeto, subindo seu código ou o crie em um repositório próprio no github, nos enviando o link por e-mail (**lucas.almeida@smartnx.io**).
+Crie em um repositório próprio no github, nos enviando o link por e-mail (**lucas.almeida@smartnx.io**).
 
-Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às **23:59h** do dia **20/07/20 (segunda-feira)**.
+Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às **23:59h** do dia **25/09/20 (sexta-feira)**.
 
 :star: Tudo que você construir neste seu projeto será avaliado.
 
