@@ -44,7 +44,7 @@ Você poderá utilizar qualquer linguagem de programação para desenvolver um c
 
 Crie em um repositório próprio no github, nos enviando o link por e-mail (**lucas.almeida@smartnx.io**).
 
-Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às **23:59h** do dia **25/09/20 (sexta-feira)**.
+Você terá **dois dias** para elaborar o desafio, e deve ser entregue até às **23:59h** do dia **19/10/20 (segunda-feira)**.
 
 :star: Tudo que você construir neste seu projeto será avaliado.
 
